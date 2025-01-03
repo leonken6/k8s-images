@@ -1,1 +1,1 @@
-FROM docker.io/library/mongodb/mongodb-enterprise-server:latest
+FROM docker.io/library/mongodb/mongodb-community-server
