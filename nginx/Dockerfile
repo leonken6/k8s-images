@@ -1,1 +1,1 @@
-FROM FROM nginx:1.30-debian13
+FROM nginx:1.30-debian13
